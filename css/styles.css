@@ -84,7 +84,7 @@ p{
 }
 
 .btn:hover{
-    background-color: #2bc4ad;
+    background-color: yellowgreen;
 }
 
 
@@ -129,6 +129,7 @@ hr{
 }
 
 .last{
+    font-size: small;
     color: #EAF6F6;
     margin-bottom: 0;
 }
@@ -145,4 +146,8 @@ hr{
     padding: 40px;
     width: 50%;
     margin: 0 auto 0 auto;
+}
+
+.footer-link:hover{
+    color:black
 }
