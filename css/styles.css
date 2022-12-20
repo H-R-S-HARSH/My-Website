@@ -1,0 +1,143 @@
+body{
+    margin: 0px;
+    text-align: center;
+    /* background-color: #E4F9F5; */
+    /* font-family: 'Merriweather', serif; */
+    
+}
+
+h1{
+    color: #66BFBF;
+    font-size: 90px;
+    margin: 50px auto 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    color: #66BFBF;
+    /* font-weight: normal; */
+}
+
+h3{
+    color: #11999E;
+    font-weight: 900;
+}
+
+.top-container{
+    background-color:  #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    padding: 60px;
+}
+
+.bottom-container{
+    background-color:  #66BFBF;
+    padding: 40px;
+}
+
+p{
+    /* font-family: 'Montserrat', sans-serif; */
+    line-height: 2;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.image1{
+    position: relative;
+    left: 180px;
+    top: 5px;
+}
+
+.image2{
+    position: absolute;
+}
+
+.programmer{
+    
+    font-size: 2.5rem;
+}
+
+
+.footer-link{
+    padding: 20px;
+    color: #11999E;
+    text-decoration: none;
+}
+
+.btn{
+    position: relative;
+    top:30px;
+    padding: 10px;
+    color: white;
+    background-color: #66BFBF;
+    text-decoration: none;
+
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.ndimg{
+    position:relative;
+    bottom:40px;
+    padding-left: 30px;
+    margin: 100px auto;
+    height: 40%;
+    width: 30%;
+    float: right;
+    margin-bottom: 0px;
+}
+
+.stimg{
+    position:relative;
+    bottom:40px;
+    padding-right: 30px;
+    margin: 100px auto;
+    height: 40%;
+    width: 30%;
+    float: left;
+}
+
+.skill-row{
+    text-align: left;
+    width:50%;
+    margin: 100px auto 0;
+    
+}
+
+.title{
+    color: #40514E;
+}
+
+hr{
+    border-style: dotted none none;
+    width: 5%;
+    height: 0px;
+    border-width: 5px;
+    color: yellow;
+}
+
+.last{
+    color: #EAF6F6;
+    margin-bottom: 0;
+}
+
+.skills{
+    padding: 40px;
+}
+
+.profile{
+    padding: 60px;
+}
+
+.contact-me{
+    padding: 40px;
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
